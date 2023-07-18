@@ -1,7 +1,4 @@
-# CodingGame
-Réponse de question de code 3Dcelo
-
-# Treehouse Scenic Score
+# Réponse de question de code 3Dcelo
 
 Ce projet implémente un algorithme permettant de calculer le score panoramique le plus élevé et le nombre d'arbres visibles dans une grille d'arbres.
 
